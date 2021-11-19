@@ -1,0 +1,6 @@
+{
+	"appId": "com.amanda.checklist",
+	"appName": "checklist",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
